@@ -1,4 +1,4 @@
-# AWS::AppStream::Stack UserSetting<a name="aws-properties-appstream-stack-usersetting"></a>
+# AWS::AppStream::Stack UserSettings<a name="aws-properties-appstream-stack-usersetting"></a>
 
 Specifies an action and whether the action is enabled or disabled for users during their streaming sessions\.
 
